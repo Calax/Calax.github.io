@@ -3,17 +3,21 @@
 
   
   <url>
-    <loc>https://calax.github.io/ru/#</loc>
+    <loc>http://example.org//ru/#CV</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org//ru/#</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://calax.github.io/ru/#</loc>
+    <loc>http://example.org//ru/#</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://calax.github.io/ru/#</loc>
+    <loc>http://example.org//ru/#</loc>
     <priority>0</priority>
   </url>
   

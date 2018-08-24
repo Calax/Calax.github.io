@@ -11,7 +11,8 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   padding: 0;
   border: 0;
   font-size: 100%;
-  font: inherit; }
+  font: inherit;
+  vertical-align: baseline; }
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
   display: block; }
@@ -626,7 +627,7 @@ table {
     table tbody tr:nth-child(2n + 1) {
       background-color: rgba(255, 255, 255, 0.075); }
   table td {
-    padding: 0.75em 0.75em; }
+    padding: 0.1em 0.1em; }
   table th {
     color: #ffffff;
     font-size: 0.9em;
